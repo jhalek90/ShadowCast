@@ -1,0 +1,7 @@
+Converting GML script: ${project_dir}\scripts\scr_box_draw_shadow\scr_box_draw_shadow.gml
+Converted description /// @description /////////////////////////////////////////////////////////////////
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Game speed set to 30
+Added compatibility script 'draw/draw_set_blend_mode.gml'
