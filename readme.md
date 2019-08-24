@@ -1,4 +1,4 @@
-#ShadowCast
+## ShadowCast
 
 Pure GML shadow casting.
 
